@@ -4,7 +4,6 @@ body {
     justify-content: center;
     align-items: center;
     height: 90vh;
-    gap: 2vh;
     background: #2D1E2F;
     font-family: Secular One;
     overflow: hidden;
@@ -15,10 +14,10 @@ body {
 }
 
 #gameStatus {
-    font-size: 5vh;
+    font-size: 50px;
+    font-weight: bolder;
     color: #F4D8CD;
-    height: 10vh;
-    margin-bottom: 5px;
+    margin-bottom: -20px;
 }
 
 #board {
@@ -58,7 +57,7 @@ body {
 }
   
 button {
-    margin-top: 5px;
+    margin-top: 20px;
     padding: 10px 20px;
     font-size: 16px;
     border-radius: 15px;
