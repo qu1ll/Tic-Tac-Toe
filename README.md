@@ -1,5 +1,4 @@
-# Tic-Tac-Toe
----
+# ️❌ Tic-Tac-Toe ⭕
 A simple Tic-Tac-Toe game.
 
 ### 📝 What can be improved?
