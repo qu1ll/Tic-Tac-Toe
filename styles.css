@@ -14,7 +14,7 @@ body {
 }
 
 #gameStatus {
-    font-size: 50px;
+    font-size: 6vh;
     font-weight: bolder;
     color: #F4D8CD;
     margin-bottom: -20px;
@@ -31,13 +31,13 @@ body {
 }
   
 .cell {
-    width: 50px;
-    height: 50px;
-    border: 1px solid #FDCA40;
+    width: 10vh;
+    height: 10vh;
+    border: .2vh solid #FDCA40;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 24px;
+    font-size: 5vh;
 }
   
 #board .cell {
@@ -48,19 +48,11 @@ body {
     background-color: #F4D8CD;
 }
   
-#board .x {
-    color: red;
-}
-  
-#board .o {
-    color: blue;
-}
-  
 button {
     margin-top: 20px;
-    padding: 10px 20px;
-    font-size: 16px;
-    border-radius: 15px;
+    padding: 1vh 2vh;
+    font-size: 1.8vh;
+    border-radius: 1.5vh;
     background: #617073;
     border: #617073;
 }
