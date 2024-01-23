@@ -13,11 +13,11 @@ body {
     visibility: hidden;
 }
 
-#gameStatus {
-    font-size: 6vh;
-    font-weight: bolder;
+#gameStatus img {
+    width: 30vh;
+    height: auto;
     color: #F4D8CD;
-    margin-bottom: -20px;
+    margin-bottom: -5vh;
 }
 
 #board {
