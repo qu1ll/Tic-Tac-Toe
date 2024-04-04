@@ -10,6 +10,7 @@
 ------------------------------------------------------
 A simple ❌ Tic-Tac-Toe ⭕ game.
 </pre>
+</div>
 
 # Getting Started
 To run the game first fork the repository than open the index.html file in the browser of your choice. Simple!
